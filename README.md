@@ -1,4 +1,4 @@
-# PowerBI_Dashboard_Project
+# PowerBI_project_01
 
 An end to end project on Power BI 
 
